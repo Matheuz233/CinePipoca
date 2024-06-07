@@ -2,7 +2,7 @@
 
 ![Frame 1](https://github.com/Matheuz233/CinePipoca/assets/138679799/edf30b10-2d37-4cf7-8802-45a471fd1f3c)
 
-CinePipoca é uma landing page criada com o uso do Tailwind CSS, um framework de estilos. Esta landing page abrange detalhes sobre os planos oferecidos, informações sobre o serviço de streaming de filmes, bem como avaliações dos usuários. Projetada para a família, a página destaca uma variedade de filmes famosos disponíveis no catálogo, proporcionando uma experiência envolvente e informativa para os visitantes interessados em explorar opções de entretenimento.
+CinePipoca é uma landing page de um serviço de streaming, desenvolvida com Tailwind CSS, que oferece detalhes sobre os planos disponíveis, informações sobre o serviço e exibe avaliações dos usuários. Destacando uma ampla seleção de filmes famosos do catálogo, a página proporciona uma experiência envolvente e informativa para os visitantes interessados em explorar opções de entretenimento.
 
 ## Demonstração 🌐
 
